@@ -1,6 +1,7 @@
 # C3PO
 Training and Evaluation Data Samples for the Constrained Triple-Head Price Optimization Network
-These datasets are derived from discrete choice model analysis presented in the literature. Specifically, we perturbed some of the model paramters calibrated for the original real-world datasets where needed, in order to generate useful price labels for the several synthetic instances made available in this repo.  
+
+These datasets are derived from discrete choice model analyses presented in the literature. Specifically, we perturbed some of the model paramters calibrated for the real-world datasets where needed, in order to generate useful optimized price labels and the corresponding synthetic instances made available in this repo.  
 
 # REFERENCES
 @article{farias2013nonparametric,
